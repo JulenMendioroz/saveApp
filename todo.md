@@ -1,6 +1,6 @@
 # Tasklist
 
-- [ ] Poner nombre
+- [x] Poner nombre
 
 - [ ] Diseño de la página de inicio
 
