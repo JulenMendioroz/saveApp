@@ -1,14 +1,14 @@
 # Tasklist
 
-- [] Poner nombre
+- [ ] Poner nombre
 
-- [] Diseño de la página de inicio
+- [ ] Diseño de la página de inicio
 
-- [] Diseño de la interfaz de usuario (clara y oscura)
+- [ ] Diseño de la interfaz de usuario (clara y oscura)
 
-- [] Crear repositorio
+- [ ] Crear repositorio
 
-- [] Escoger tecnologías
+- [ ] Escoger tecnologías
 
 
 # Ideas
