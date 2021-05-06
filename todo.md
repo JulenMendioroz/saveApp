@@ -38,6 +38,8 @@
 
 * Testing
 * GIT
+* UUID
+* Investigar recordarme en login
 
 ## Ibarra
 HTML, CSS, JS básico, SQL básico, Python
