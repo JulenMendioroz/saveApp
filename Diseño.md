@@ -2,7 +2,7 @@
 # Plantilla general
 ## Cabecera
 * Nombre de la aplicación
-* Desplagable con icono + nombre/alias/id (solo cuando el usuario está logeado)
+* Desplagable con icono
 
 ## Contenido
 * Background gris oscuro
@@ -24,8 +24,14 @@
     * A futuro: servicio correo autenticación
 
 # Diseño para usuario logeado
+## Cabecera
+  * Misma cabecera
+  * Añadir desplagable con icono + nombre/alias/id
+## Nav
+## Contenido
+## Pie
+  Mismo pie que para usuario sin loggear
 
-# Nav
 
 
 
